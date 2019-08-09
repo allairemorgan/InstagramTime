@@ -4,7 +4,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-**Too often, I find myself wasting away hours** on end scrolling through the bottomless feeds of social media. Not only did it occupy my time and productivity, social media began to deteriorate my self image, feed my insecurities, and introduce me into an endless cycle of comparing myself to peers. When talking with friends about my predicament, I found a majority of people my age feel the same way about social media. Noting this was a problem, I created a concept app which limits scrolling time and forces users to take a break.
+**Too often, I find myself wasting away hours** on end scrolling through the bottomless feeds of social media. Not only did it occupy my time and productivity, social media began to deteriorate my self image, feed my insecurities, and introduce me into an endless cycle of comparing myself to peers. When talking with friends about my predicament, I found a majority of people my age feel the same way about social media. Noting this was a problem, I did a little more research into the effects of social media use and created a concept app which limits scrolling time and forces users to take a break.
 
 ## The Problem
 
