@@ -18,8 +18,8 @@ After setting a time limit, the user is free to use the main app while the timer
 
 **For demonstrative purposes,** the main screen is a brief infographic about InstagramTime. To further the project, the main screen would be the main interface for Instagram or a relevant social media account.
 
-![Image](Graphics/MainScreen.png)
+![Image](Graphics/WelcomePage.png)
 
 When the time limit has elapsed, the user is then directed to a waiting screen. The screen has no interactive features, forcing the user to wait 20 minutes until the app is re-enabled. The intent behind the waiting screen is to encourage the user to spend time away from their phone and get back to enjoying the day.
 
-![Image](Graphics/WaitScreen.png)
+![Image](Graphics/BreakScreen.png)
