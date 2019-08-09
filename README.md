@@ -8,7 +8,7 @@
 
 ## The Problem
 
-**Small studies are showing big results** with the harmful effects of social media. A study by the University of Pittsburgh found subjects between the ages of 19 and 32 who use soccial media within 30 minutes of sleep increase chances of sleep disturbance by 62%. (https://academic.oup.com/sleep/article/40/9/zsx113/3926043)[Source] 
+**Small studies are showing big results** with the harmful effects of social media. A study by the University of Pittsburgh found subjects between the ages of 19 and 32 who use soccial media within 30 minutes of sleep are 1.62 times as likely to experience sleep disturbance. [Source](https://academic.oup.com/sleep/article/40/9/zsx113/3926043) Similarly, a study supported by the National Institute of Health finds subjects who use social media at an increased frequency are 2.18 times as likely to have eating concerns; the study further suggests a similar correlation between social media use and body image concerns. [Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5003636/)
 
 ## The App
 
