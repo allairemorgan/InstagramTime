@@ -14,7 +14,7 @@ With social media comes a new ability to connect with others instantly. While in
 
 ## The App
 
-**InstagramTime features are designed to implement seamlessly into the functionality of Instagram so as to alter but not disrupt the user experience.**
+**InstagramTime features are designed to implement seamlessly into the functionality of Instagram so as to alter but not disrupt the user experience.** Below is a walkthrough of the app and a brief explanation of how it would integrate into existing social media sites.
 
 InstagramTime begins by setting a time limit on scrolling on social media.
 
