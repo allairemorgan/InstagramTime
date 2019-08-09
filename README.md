@@ -6,6 +6,10 @@
 
 **Too often, I find myself wasting away hours** on end scrolling through the bottomless feeds of social media. Not only did it occupy my time and productivity, social media began to deteriorate my self image, feed my insecurities, and introduce me into an endless cycle of comparing myself to peers. When talking with friends about my predicament, I found a majority of people my age feel the same way about social media. Noting this was a problem, I created a concept app which limits scrolling time and forces users to take a break.
 
+## The Problem
+
+**Small studies are showing big results** with the harmful effects of social media. A study by the University of Pittsburgh found subjects between the ages of 19 and 32 who use soccial media within 30 minutes of sleep increase chances of sleep disturbance by 62%. ![https://academic.oup.com/sleep/article/40/9/zsx113/3926043](Source)
+
 ## The App
 
 InstagramTime begins by setting a time limit on scrolling on social media.
